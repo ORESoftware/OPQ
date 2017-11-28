@@ -1,0 +1,32 @@
+{
+  "name": "opq",
+  "version": "0.0.10001",
+  "description": "Observable Persistent Queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/OPQ.git"
+  },
+  "keywords": [
+    "observable",
+    "rxjs",
+    "rxjs5",
+    "queue",
+    "persistent",
+    "text",
+    "file",
+    "mutex"
+  ],
+  "author": "Olegzandr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/OPQ/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/OPQ#readme",
+  "devDependencies": {
+    "async": "^2.1.4"
+  }
+}
